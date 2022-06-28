@@ -6,4 +6,5 @@ data:
   mysql_usermgmt.sql: |
     DROP DATABASE IF EXISTS webappdb;
     CREATE DATABASE webappdb;
+
 #this config map you can compare the same as user data. 
